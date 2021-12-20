@@ -28,7 +28,7 @@ namespace Aura_OS.System.Shell.cmdIntr.Users
         public Passwd() { }
 
         /// <summary>
-        /// c = commnad, c_CD
+        /// c = command, c_CD
         /// </summary>
         /// <param name="user">The directory you wish to pass in</param>
         /// <param name="startIndex">The start index for remove.</param>
